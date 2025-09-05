@@ -729,7 +729,7 @@ useEffect (асинхронно, после отрисовки на экране
                         </div>
                         <div className="footer__bottom">
                             <div className="footer__copyright">
-                                @ 2023 Weeb, Inc. All rights reserved.
+                                @ 2025 Weeb, Inc. All rights reserved.
                             </div>
                             <div className="footer__socials">
                                 <img src={foo1} alt="" />
